@@ -1,0 +1,1 @@
+python -m streamlit run readmission_deployment.py --global.developmentMode=false
